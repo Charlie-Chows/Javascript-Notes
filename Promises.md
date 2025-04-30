@@ -3,6 +3,8 @@
 ## Why we need to use promises instead of callbacks ?
 - By using nested callbacks we lose control over result & it lead to callback hell.
 - To avoid this we need to use promises 
+  
+  
 ```js
 
 const cart = ["shirt", "shoes", "straw hat"];
